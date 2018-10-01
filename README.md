@@ -1,2 +1,2 @@
 # goBlock
-block chain implementation in golang
+Block chain implementation in golang
